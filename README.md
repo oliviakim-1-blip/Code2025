@@ -1,4 +1,4 @@
-# Code2025
+# Cultures Through Music: Vietnamese Pop Fusion
 
 ## Table of contents
 * [General info](#general-info)
@@ -6,7 +6,9 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This is the link to my Tunepad project:
+https://tunepad.com/project/115110
+This is the editing link:
 https://tunepad.com/project/115110#code
 	
 ## Technologies
